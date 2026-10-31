@@ -1,0 +1,103 @@
+[
+  {
+    "name": "retain_current_description",
+    "request": {
+      "mode": "CURRENT_DESCRIPTION",
+      "evidence_ids": [
+        "current_county_values"
+      ],
+      "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+      "version": 2,
+      "amount_field": "federalShareObligated",
+      "county_meaning": "applicant_location",
+      "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+    }
+  },
+  {
+    "name": "reject_metadata_as_history",
+    "request": {
+      "mode": "DATED_VALUE_COMPARISON",
+      "evidence_ids": [
+        "metadata_earlier",
+        "metadata_current"
+      ],
+      "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+      "version": 2,
+      "amount_field": "federalShareObligated",
+      "county_meaning": "applicant_location",
+      "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+    }
+  },
+  {
+    "name": "reject_current_filter_as_history",
+    "request": {
+      "mode": "DATED_VALUE_COMPARISON",
+      "evidence_ids": [
+        "current_refresh_filter",
+        "current_county_values"
+      ],
+      "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+      "version": 2,
+      "amount_field": "federalShareObligated",
+      "county_meaning": "applicant_location",
+      "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+    }
+  },
+  {
+    "name": "reject_applicant_county_as_damage_location",
+    "request": {
+      "mode": "CURRENT_DESCRIPTION",
+      "evidence_ids": [
+        "current_county_values"
+      ],
+      "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+      "version": 2,
+      "amount_field": "federalShareObligated",
+      "county_meaning": "damaged_worksite",
+      "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+    }
+  },
+  {
+    "name": "reject_grant_field_as_paid_cash",
+    "request": {
+      "mode": "CURRENT_DESCRIPTION",
+      "evidence_ids": [
+        "current_county_values"
+      ],
+      "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+      "version": 2,
+      "amount_field": "paid_cash",
+      "county_meaning": "applicant_location",
+      "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+    }
+  },
+  {
+    "name": "reject_missing_evidence",
+    "request": {
+      "mode": "CURRENT_DESCRIPTION",
+      "evidence_ids": [
+        "absent"
+      ],
+      "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+      "version": 2,
+      "amount_field": "federalShareObligated",
+      "county_meaning": "applicant_location",
+      "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+    }
+  },
+  {
+    "name": "reject_stability_horizon",
+    "request": {
+      "mode": "STABILITY_HORIZON",
+      "evidence_ids": [
+        "metadata_earlier",
+        "metadata_current"
+      ],
+      "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+      "version": 2,
+      "amount_field": "federalShareObligated",
+      "county_meaning": "applicant_location",
+      "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+    }
+  }
+]
