@@ -1,0 +1,12 @@
+{
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "public_files": {
+    "paper/main.tex": "d4ece330a2c849b6de69af998915acf79418871aa6e1d7858f2a90b8c7efd563",
+    "paper/manuscript.pdf": "922fe0e3573ee5512554b055f436850bdc1f1fd9040b6ddc9236b548a565ac4f",
+    "paper/images/current_record_probes.pdf": "2da57ee28882525c5b30200f5961ecc620f42f6b6b89650ac18e249645746570",
+    "paper/images/current_dollar_probes.pdf": "b0d7c055c48e9cf31cfbdb6fb04d02c071e7be3cf9fc88983532d078a7c521de",
+    "paper/images/source_county_flags.pdf": "6aff310293d7c92c3920ec03b40e69aeddeb1a7d720415638f3cc474b7012130"
+  },
+  "qualification": "Independent OpenFEMA current-record audit; no established historical stability or geographic allocation; formal-publication projects excluded."
+}
