@@ -1,0 +1,33 @@
+{
+  "status": "SOURCE_PROJECTION_COMPLETE_NOT_YET_INDEPENDENTLY_VERIFIED",
+  "native_records": 17994,
+  "sufficient_cells": 9844,
+  "county_groups": 132,
+  "cohort_profiles": {
+    "4332": {
+      "native_records": 6621,
+      "eligible_money_records": 6621,
+      "excluded_missing_key_records": 0,
+      "excluded_duplicate_key_records": 0,
+      "excluded_amount_records": 0,
+      "negative_source_amount_records": 0,
+      "unknown_first_obligation_records": 0,
+      "unknown_last_refresh_records": 0
+    },
+    "4339": {
+      "native_records": 11373,
+      "eligible_money_records": 11373,
+      "excluded_missing_key_records": 0,
+      "excluded_duplicate_key_records": 0,
+      "excluded_amount_records": 0,
+      "negative_source_amount_records": 0,
+      "unknown_first_obligation_records": 0,
+      "unknown_last_refresh_records": 0
+    }
+  },
+  "source_precision": "Exact source decimals accumulated at80-digit precision;independent rational verification required.",
+  "temporal_scope": "Source first-obligation calendar dates and aware UTC store-update timestamps;not original publication availability.",
+  "public_microdata": "No project/applicant identifier,names,narratives or addresses. County/date sufficient cells;no individual-assistance data or reidentification.",
+  "original_historical_stability": "UNESTABLISHED",
+  "cutoff_comparisons_run": false
+}

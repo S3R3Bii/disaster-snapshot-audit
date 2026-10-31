@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-31T01:52:57.868761+00:00",
+  "timestamp_utc": "2026-10-31T01:56:19.938880+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 15,
+  "files_checked": 20,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -13,12 +13,17 @@
     "README.md": "d1635d0fa6bcda0635c1eec99a9ef4fd07b671f9bdab72cc832231f2b9ec29bf",
     "SOURCE_HISTORY.md": "d431dc8c31eb7eb9afd3e415fae1990fd8943c7437d88b9b509e7cf680b515f8",
     "data/capture_manifest.json": "dd7a0dae970fda82df234ef7bbeb50866ce6add1d2202f55e267afea5fd7c815",
+    "data/county_catalog.json": "b46999e404698186d93b5cafb2494ae70317889f73e46d7f488b2866ad6a8cfe",
+    "data/county_date_cells.csv": "7ee0f7906505326680f4549cf512269670e284dc3bf54e1f9aae10c29585294f",
     "data/field_definitions.json": "d0f6bb50c693881cf7573986a62ceae61da056b8ad74b6b13abb6edd55a161a2",
     "data/metadata_snapshots.json": "b981bd4fccdbcc3459a4753edfb11c0b29f853fe5fa00e80a2b72bda2e09def6",
+    "data/native_verification.json": "51c525048834c779c660d9b551ccfbf9dd833bdcb3bc79a492f220e04487f733",
+    "data/projection_receipt.json": "c2ab43b5ac3ee21d15a0464530dbc44af9614d8fedce6bfc0aa3ce465cb0a081",
     "data/source_contract.json": "fd9cac0b37efab3f6a12186cdc22e476757ee183542f021383d0fb9e4b31e283",
     "requirements-source.txt": "4b8183101fd19f071771805a42a31fbb234a7961921fdb8b783a279755a1b5d5",
     "requirements.txt": "cee1c44fccc645667c739a02cc1cda60f936b0490b96ee6307d4df05c87f6ab4",
-    "src/capture_source.py": "9f7ca87d89620fc11529a4d1d61d9275f9b73096d3735d2548182c7e87dc11d0"
+    "src/capture_source.py": "9f7ca87d89620fc11529a4d1d61d9275f9b73096d3735d2548182c7e87dc11d0",
+    "src/project_source.py": "7762d1a740417f145f28a753b9db35fd058a9264a3f370a4e04a3a6def2ce0f2"
   },
   "raw_source_members_excluded": true,
   "unapproved_manuscripts_excluded": true,
