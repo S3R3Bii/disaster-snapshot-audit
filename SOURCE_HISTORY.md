@@ -1,6 +1,6 @@
 # Source history and claim boundary
 
-Earlier official discovery captured API documentation, the v 2 funded-project dictionary and a real metadata response on 30 October 2026 UTC. It did not establish comparable historical county financial values. The original revision-curve/stability-horizon proposal remains unexecuted.
+Earlier official discovery captured API documentation, the v2 funded-project dictionary and a real metadata response on 30 October 2026 UTC. It did not establish comparable historical county financial values. The original revision-curve/stability-horizon proposal remains unexecuted.
 
 This execution uses the original protocol's data-availability alternative. Current official API, dictionary and terms were captured 31 October 2026 UTC with ordinary unauthenticated requests. The web retrieval tool returned 403 for two pages, while ordinary native requests to the same official pages returned 200; those outcomes are distinct and retained. No credentials, user-agent rotation, CAPTCHA or access-control workaround was used.
 

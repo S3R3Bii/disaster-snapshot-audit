@@ -6,11 +6,11 @@ Determine what a current county funding export supports before treating refresh 
 
 The original Study 12 stability-horizon analysis remains unexecuted. Its historical-snapshot gate remains unresolved. The original program protocol permits a data-availability study when historical snapshots cannot be established. This separate execution does not estimate a waiting period, revision error, recovery effect, funding need or benefit.
 
-Official metadata and definitions were inspected before this plan: current v 2 funded-project scope, applicant-location county definition, daily reload metadata, first/last obligation and store refresh meanings, migration warning, financial units and terms. A real earlier metadata response was captured on 30 October 2026; a second was captured on 31 October 2026 UTC. These are metadata snapshots, not historical project-value snapshots. Selection is source informed, not blinded. No project-record financial outcomes have been requested.
+Official metadata and definitions were inspected before this plan: current v2 funded-project scope, applicant-location county definition, daily reload metadata, first/last obligation and store refresh meanings, migration warning, financial units and terms. A real earlier metadata response was captured on 30 October 2026; a second was captured on 31 October 2026 UTC. These are metadata snapshots, not historical project-value snapshots. Selection is source informed, not blinded. No project-record financial outcomes have been requested.
 
 ## Fixed source cohort and capture
 
-Use only the official PublicAssistanceFundedProjectsDetails v 2 endpoint. Retrieve every matching record for disasterNumber 4332 and 4339. The numbers are fixed before project capture; no replacements if a cohort is empty or unsuitable. Retain metadata count, all pages, exact URL/parameters, timestamps, native bytes/hashes and coverage diagnostics. Page size 10000, explicit order by gmProjectId, applicantId, pwNumber, metadata enabled and count requested. Duplicate/missing page coverage or changing source-count assertions fail the capture gate; at most one targeted repair of a demonstrated capture defect. Do not select a convenient subset after viewing money or retention results.
+Use only the official PublicAssistanceFundedProjectsDetails v2 endpoint. Retrieve every matching record for disasterNumber 4332 and 4339. The numbers are fixed before project capture; no replacements if a cohort is empty or unsuitable. Retain metadata count, all pages, exact URL/parameters, timestamps, native bytes/hashes and coverage diagnostics. Page size 10000, explicit order by gmProjectId, applicantId, pwNumber, metadata enabled and count requested. Duplicate/missing page coverage or changing source-count assertions fail the capture gate; at most one targeted repair of a demonstrated capture defect. Do not select a convenient subset after viewing money or retention results.
 
 Requested fields are disasterNumber, declarationDate, gmProjectId, applicantId, pwNumber, county, countyCode, stateAbbreviation, stateNumberCode, federalShareObligated, firstObligationDate, lastRefresh. No individual-assistance records, names, contact blocks, project narratives, addresses, maps, applicant linkage or reidentification. Native project records remain private. Public sources are factual county/cutoff sufficient aggregates, capture metadata, exclusions and exact source hashes.
 
@@ -26,7 +26,7 @@ Group by disaster, stateNumberCode, countyCode when code is nonempty; retain all
 
 ## Fixed availability comparisons
 
-Use five authored UTC cutoffs:2018-12-31 T 23:59:59 Z, 2020-12-31 T 23:59:59 Z, 2022-12-31 T 23:59:59 Z, 2024-12-31 T 23:59:59 Z and 2026-10-30 T 23:59:59 Z. They are calendar probes, not tuned or actual dashboard deadlines.
+Use five authored UTC cutoffs:2018-12-31T23:59:59Z,2020-12-31T23:59:59Z,2022-12-31T23:59:59Z,2024-12-31T23:59:59Z and2026-10-30T23:59:59Z. They are calendar probes, not tuned or actual dashboard deadlines.
 
 For every disaster/county/cutoff, retain the full current record count and eligible current reported-dollar sum; count current records and sum eligible current amounts that satisfy each of:
 1. current firstObligationDate <= cutoff;
