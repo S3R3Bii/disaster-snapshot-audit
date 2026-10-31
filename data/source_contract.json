@@ -1,0 +1,76 @@
+{
+  "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+  "version": 2,
+  "fixed_disasters": [
+    4332,
+    4339
+  ],
+  "page_size": 10000,
+  "selected_fields": [
+    "disasterNumber",
+    "declarationDate",
+    "gmProjectId",
+    "applicantId",
+    "pwNumber",
+    "county",
+    "countyCode",
+    "stateAbbreviation",
+    "stateNumberCode",
+    "federalShareObligated",
+    "firstObligationDate",
+    "lastRefresh"
+  ],
+  "order_by": [
+    "gmProjectId",
+    "applicantId",
+    "pwNumber"
+  ],
+  "metadata_url": "https://www.fema.gov/api/open/v1/OpenFemaDataSets",
+  "schema_url": "https://www.fema.gov/api/open/v1/OpenFemaDataSetFields?$filter=openFemaDataSet%20eq%20%27PublicAssistanceFundedProjectsDetails%27%20and%20datasetVersion%20eq%202",
+  "amount_field": "federalShareObligated",
+  "amount_unit": "reported USD grant funding available to grantee;not paid cash",
+  "county_meaning": "applicant location;not necessarily damaged-work location",
+  "population": "current obligated Public Assistance funded-project records;pre-obligation excluded;migration additions possible",
+  "cutoffs": [
+    "2018-12-31T23:59:59Z",
+    "2020-12-31T23:59:59Z",
+    "2022-12-31T23:59:59Z",
+    "2024-12-31T23:59:59Z",
+    "2026-10-30T23:59:59Z"
+  ],
+  "date_fields": [
+    "firstObligationDate",
+    "lastRefresh"
+  ],
+  "historical_values_available": false,
+  "original_stability_horizon": "UNESTABLISHED",
+  "official_pages": [
+    {
+      "label": "dictionary",
+      "url": "https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v2",
+      "status": 200,
+      "bytes": 159643,
+      "sha256": "7393db0ebecd21c69bde4843a42f079ea58008c571e35723e79585d65318677e",
+      "observed_utc": "2026-10-31T01:41:36.561523+00:00",
+      "ordinary_request": true
+    },
+    {
+      "label": "api",
+      "url": "https://www.fema.gov/about/openfema/api",
+      "status": 200,
+      "bytes": 186434,
+      "sha256": "ad94484b6e16b274c2048454f7d22e4cbff137ed309adebd7eeedc2fa9dc9ffa",
+      "observed_utc": "2026-10-31T01:41:36.696053+00:00",
+      "ordinary_request": true
+    },
+    {
+      "label": "terms",
+      "url": "https://www.fema.gov/about/openfema/terms-conditions",
+      "status": 200,
+      "bytes": 147252,
+      "sha256": "cfa78329787ab2b36148e33847b121f5e1e1845e2ec22004fe65e053d4667673",
+      "observed_utc": "2026-10-31T01:41:36.779560+00:00",
+      "ordinary_request": true
+    }
+  ]
+}

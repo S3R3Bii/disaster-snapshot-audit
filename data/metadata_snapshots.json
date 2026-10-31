@@ -1,0 +1,40 @@
+[
+  {
+    "label": "earlier",
+    "captured_utc": "2026-10-30T15:21:28.162438+00:00",
+    "source_url": "https://www.fema.gov/api/open/v1/OpenFemaDataSets?$filter=name%20eq%20%27PublicAssistanceFundedProjectsDetails%27",
+    "source_sha256": "198feec6ddba003f61794293dfd067a2e9c739d592bf2213063e7a1e9ad18a98",
+    "api_rundate": "2026-10-30T15:21:28.104Z",
+    "fields": {
+      "name": "PublicAssistanceFundedProjectsDetails",
+      "version": 2,
+      "recordCount": 850951,
+      "modified": "2026-07-12T00:00:00.000Z",
+      "lastRefresh": "2026-07-21T21:40:34.077Z",
+      "lastDataSetRefresh": "2026-10-30T15:10:15.139Z",
+      "hash": "fc79b7e1c927f32defee511f9163e9b313413f50",
+      "id": "c928e5f4-3377-4714-806e-d0b395bf771d",
+      "accessLevel": "public"
+    },
+    "qualification": "Actual metadata only; no earlier county/project values. Internal hash is not treated as a record identity."
+  },
+  {
+    "label": "current",
+    "captured_utc": "2026-10-31T01:40:34.654979+00:00",
+    "source_url": "https://www.fema.gov/api/open/v1/OpenFemaDataSets?%24filter=name+eq+%27PublicAssistanceFundedProjectsDetails%27&%24format=json",
+    "source_sha256": "b19a82667a19ad201430646178ee284f0442965b2a4b88d2d0269844b0c6db52",
+    "api_rundate": "2026-10-31T01:40:34.636Z",
+    "fields": {
+      "name": "PublicAssistanceFundedProjectsDetails",
+      "version": 2,
+      "recordCount": 850951,
+      "modified": "2026-07-12T00:00:00.000Z",
+      "lastRefresh": "2026-07-21T21:40:34.077Z",
+      "lastDataSetRefresh": "2026-10-30T15:10:15.139Z",
+      "hash": "fc79b7e1c927f32defee511f9163e9b313413f50",
+      "id": "c928e5f4-3377-4714-806e-d0b395bf771d",
+      "accessLevel": "public"
+    },
+    "qualification": "Actual metadata only; no earlier county/project values. Internal hash is not treated as a record identity."
+  }
+]
