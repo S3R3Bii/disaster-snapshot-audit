@@ -12,7 +12,7 @@ Official metadata and definitions were inspected before this plan: current v2 fu
 
 Use only the official PublicAssistanceFundedProjectsDetails v2 endpoint. Retrieve every matching record for disasterNumber 4332 and 4339. The numbers are fixed before project capture; no replacements if a cohort is empty or unsuitable. Retain metadata count, all pages, exact URL/parameters, timestamps, native bytes/hashes and coverage diagnostics. Page size 10000, explicit order by gmProjectId, applicantId, pwNumber, metadata enabled and count requested. Duplicate/missing page coverage or changing source-count assertions fail the capture gate; at most one targeted repair of a demonstrated capture defect. Do not select a convenient subset after viewing money or retention results.
 
-Requested fields are disasterNumber, declarationDate, gmProjectId, applicantId, pwNumber, county, countyCode, stateAbbreviation, stateNumberCode, federalShareObligated, firstObligationDate, lastRefresh. No individual-assistance records, names, contact blocks, project narratives, addresses, maps, applicant linkage or reidentification. Native project records remain private. Public sources are factual county/cutoff sufficient aggregates, capture metadata, exclusions and exact source hashes.
+Requested fields are disasterNumber, declarationDate, gmProjectId, applicantId, pwNumber, county, countyCode, stateAbbreviation, stateNumberCode, federalShareObligated, firstObligationDate, lastRefresh. No individual-assistance records, names, contact blocks, project narratives, addresses, maps, applicant linkage or reidentification. Native project records remain private. Public sources are factual county/date sufficient aggregates, capture metadata, exclusions and exact source hashes.
 
 Read monetary tokens as exact decimals, retaining missing and invalid values. The studied amount is federalShareObligated in reported dollars, not paid cash, total project cost or an official financial-system measure. Do not add projectAmount, totalObligated or other overlapping measures. County means applicant location; no damaged-worksite or independently validated FIPS claim.
 
@@ -29,8 +29,8 @@ Group by disaster, stateNumberCode, countyCode when code is nonempty; retain all
 Use five authored UTC cutoffs:2018-12-31T23:59:59Z,2020-12-31T23:59:59Z,2022-12-31T23:59:59Z,2024-12-31T23:59:59Z and2026-10-30T23:59:59Z. They are calendar probes, not tuned or actual dashboard deadlines.
 
 For every disaster/county/cutoff, retain the full current record count and eligible current reported-dollar sum; count current records and sum eligible current amounts that satisfy each of:
-1. current firstObligationDate <= cutoff;
-2. current lastRefresh <= cutoff.
+1. current firstObligationDate calendar date <= the cutoff calendar date;
+2. current lastRefresh aware timestamp <= the UTC cutoff.
 Keep missing/invalid dates as explicit unknowns. Report selected/current counts and amount shares with all denominators. A zero selected count is a property of the current-record filter, not evidence of zero historical obligations. Neither selector reconstructs prior record values, removed records, publication availability or the earlier population.
 
 Compare the two actual metadata captures separately: endpoint/version, recordCount, modified, metadata lastRefresh, lastDataSetRefresh and source hash. Equal metadata or a completed reload does not establish unchanged county totals. Do not infer record changes from metadata lastRefresh or a stability horizon from two metadata observations.
@@ -52,3 +52,9 @@ Require complete fixed case accounting, source rights/attribution, source/identi
 Native data and public aggregates are statistical research/reporting only, never individual-benefit eligibility or reidentification. Follow OpenFEMA terms and required disclaimer. Do not use FEMA/DHS seals. Formal-publication projects including Azure optimization remain private.
 
 Preserve earlier failures and the original source-history hold. Keep at most 3 substantive review rounds, 45 active review minutes and 60 review-specific tool calls across original source discovery and this execution, excluding acquisition/coding/release execution. A persistent substantive failure after one targeted repair, unavailable required evidence or a cap leaves the affected gate incomplete; do not weaken it to count a release.
+
+## Pre-capture implementation clarification
+
+The field dictionary calls firstObligationDate a calendar obligation date and lastRefresh a datetimez store-update value. The first selector uses the source calendar date without inferring a timezone or first-publication instant. The second requires an aware timestamp normalized to UTC; missing or ambiguous values remain unknown. Public county/date sufficient aggregates retain the source temporal precision needed for the fixed cutoffs, without project or applicant identifiers.
+
+The current API contract uses $count=true, not the deprecated inlinecount option. Capture is bounded to 100000 records per disaster; a larger response leaves coverage incomplete, with no substitute cohort. A final count and declared dataset-refresh check must agree with the capture metadata. Consistent counts/refresh markers still do not prove atomicity or immutable source contents. This is one bounded capture, not a repeated refresh or stability time series.

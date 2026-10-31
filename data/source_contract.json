@@ -72,5 +72,13 @@
       "observed_utc": "2026-10-31T01:41:36.779560+00:00",
       "ordinary_request": true
     }
-  ]
+  ],
+  "date_semantics": {
+    "firstObligationDate": "source calendar date; no inferred timezone or first publication",
+    "lastRefresh": "aware store-update timestamp normalized UTC; unknown if missing/ambiguous"
+  },
+  "count_parameter": {
+    "$count": "true"
+  },
+  "maximum_records_per_disaster": 100000
 }

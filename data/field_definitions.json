@@ -1,0 +1,132 @@
+{
+  "source": {
+    "url": "https://www.fema.gov/api/open/v1/OpenFemaDataSetFields?%24filter=openFemaDataSet+eq+%27PublicAssistanceFundedProjectsDetails%27+and+datasetVersion+eq+2&%24format=json",
+    "status": 200,
+    "sha256": "56d7b0a91d249ec5594b211dd3171102601e13e48784503c915a2b8e376333f1",
+    "bytes": 14258,
+    "captured_utc": "2026-10-31T01:49:05.338315+00:00",
+    "scope": "Only official field metadata;no project records"
+  },
+  "fields": [
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "disasterNumber",
+      "title": "Disaster Number",
+      "description": "Sequentially assigned number used to designate an event or incident declared as a disaster. For more information on the disaster process visit https://www.fema.gov/disasters/how-declared",
+      "type": "smallint",
+      "isNullable": false,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "declarationDate",
+      "title": "Declaration Date",
+      "description": "Date the disaster was declared",
+      "type": "date",
+      "isNullable": false,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "pwNumber",
+      "title": "Project Worksheet Number",
+      "description": "Sequentially assigned number used to identify a unique project",
+      "type": "integer",
+      "isNullable": false,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "applicantId",
+      "title": "Applicant ID",
+      "description": "Unique Public Assistance applicant identification number",
+      "type": "text",
+      "isNullable": true,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "county",
+      "title": "County",
+      "description": "The name of a U.S. county, parish, borough, independent city or other political subdivision specifying the applicant location. Counties may not be available for tribal, territories or applicants lacking specified headquarter locations.",
+      "type": "text",
+      "isNullable": true,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "countyCode",
+      "title": "County Code",
+      "description": "Unique identifier for a U.S. county; typically, this identifier makes up the last three digits of a five digit Federal Information Processing Standard (FIPS) Code",
+      "type": "text",
+      "isNullable": true,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "stateAbbreviation",
+      "title": "State Abbreviation",
+      "description": "Two-character unique identifier for a U.S. state or territory",
+      "type": "text",
+      "isNullable": false,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "stateNumberCode",
+      "title": "State Number Code",
+      "description": "Unique identifier for a U.S. state or territory; this identifier makes up the first two digits of a five digit Federal Information Processing Standard (FIPS) Code",
+      "type": "text",
+      "isNullable": true,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "federalShareObligated",
+      "title": "Federal Share Obligated",
+      "description": "The Public Assistance grant funding available to the grantee (State) in dollars, for sub-grantee's approved Project Worksheets",
+      "type": "decimal(13,2)",
+      "isNullable": false,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "lastRefresh",
+      "title": "Last Refresh",
+      "description": "Date the record was last updated in the API data store",
+      "type": "datetimez",
+      "isNullable": false,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "firstObligationDate",
+      "title": "First Obligation Date",
+      "description": "Date the grant was initially obligated",
+      "type": "datetime",
+      "isNullable": false,
+      "primaryKey": false
+    },
+    {
+      "openFemaDataSet": "PublicAssistanceFundedProjectsDetails",
+      "datasetVersion": 2,
+      "name": "gmProjectId",
+      "title": "GM Project Identifier",
+      "description": "The numeric project identification number used in GM for individual projects.",
+      "type": "bigint",
+      "isNullable": false,
+      "primaryKey": true
+    }
+  ]
+}
