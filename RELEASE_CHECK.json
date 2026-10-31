@@ -1,0 +1,24 @@
+{
+  "state": "CANDIDATE_READY",
+  "scope": "independent-program-study",
+  "formal_submission_target": false,
+  "source_gate": "PASS",
+  "geography_and_unknown_history_gate": "PASS",
+  "native_source_conditions": 141166,
+  "saved_source_conditions": 49237,
+  "independent_probe_conditions": 18526,
+  "authored_fixture_methods": 38,
+  "additional_validation": "Two aggregation-boundary fixtures added after initial probe checks; source/probe rules unchanged.",
+  "isolated_replays": [
+    "3.10.11",
+    "3.12.14"
+  ],
+  "current_records": 17994,
+  "source_county_groups": 132,
+  "mixed_statewide_county_groups": 22,
+  "historical_county_value_captures_established": 0,
+  "original_stability_horizon": "UNEXECUTED",
+  "candidate_main_ci_tag_metadata": "PENDING",
+  "not_peer_reviewed": true,
+  "replay_environment": "Additive requirements-replay.txt supplies dateutil for the independent checker; frozen requirements and 26 dependency hashes remain unchanged."
+}

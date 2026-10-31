@@ -1,0 +1,62 @@
+{
+  "earlier_capture_utc": "2026-10-30T15:21:28.162438+00:00",
+  "fields": [
+    {
+      "earlier": "PublicAssistanceFundedProjectsDetails",
+      "equal": true,
+      "field": "name",
+      "later": "PublicAssistanceFundedProjectsDetails"
+    },
+    {
+      "earlier": 2,
+      "equal": true,
+      "field": "version",
+      "later": 2
+    },
+    {
+      "earlier": 850951,
+      "equal": true,
+      "field": "recordCount",
+      "later": 850951
+    },
+    {
+      "earlier": "2026-07-12T00:00:00.000Z",
+      "equal": true,
+      "field": "modified",
+      "later": "2026-07-12T00:00:00.000Z"
+    },
+    {
+      "earlier": "2026-07-21T21:40:34.077Z",
+      "equal": true,
+      "field": "lastRefresh",
+      "later": "2026-07-21T21:40:34.077Z"
+    },
+    {
+      "earlier": "2026-10-30T15:10:15.139Z",
+      "equal": true,
+      "field": "lastDataSetRefresh",
+      "later": "2026-10-30T15:10:15.139Z"
+    },
+    {
+      "earlier": "fc79b7e1c927f32defee511f9163e9b313413f50",
+      "equal": true,
+      "field": "hash",
+      "later": "fc79b7e1c927f32defee511f9163e9b313413f50"
+    },
+    {
+      "earlier": "c928e5f4-3377-4714-806e-d0b395bf771d",
+      "equal": true,
+      "field": "id",
+      "later": "c928e5f4-3377-4714-806e-d0b395bf771d"
+    },
+    {
+      "earlier": "public",
+      "equal": true,
+      "field": "accessLevel",
+      "later": "public"
+    }
+  ],
+  "later_capture_utc": "2026-10-31T01:40:34.654979+00:00",
+  "native_payload_sha256_equal": false,
+  "qualification": "These captures contain metadata,not earlier county financial values. Equal indicators do not prove unchanged totals."
+}

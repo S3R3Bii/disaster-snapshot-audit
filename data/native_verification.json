@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "finite_conditions": 141166,
+  "native_records": 17994,
+  "sufficient_cells": 9844,
+  "county_groups": 132,
+  "method": "Independent strict JSON tokens,dateutil calendar/UTC parser,SQLite grouping/key multiplicity and exact Fraction sums;no production projection imports.",
+  "source_sha256": {
+    "data/county_date_cells.csv": "7ee0f7906505326680f4549cf512269670e284dc3bf54e1f9aae10c29585294f",
+    "data/county_catalog.json": "b46999e404698186d93b5cafb2494ae70317889f73e46d7f488b2866ad6a8cfe",
+    "data/projection_receipt.json": "c2ab43b5ac3ee21d15a0464530dbc44af9614d8fedce6bfc0aa3ce465cb0a081",
+    "data/capture_manifest.json": "dd7a0dae970fda82df234ef7bbeb50866ce6add1d2202f55e267afea5fd7c815"
+  },
+  "qualification": "Current factual projection only;no prior county values,original publication or stability horizon established."
+}

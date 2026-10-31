@@ -1,0 +1,49 @@
+{
+  "current_county_values": {
+    "kind": "COUNTY_VALUES",
+    "capture_end_utc": "2026-10-31T01:52:04.517683+00:00",
+    "coverage_status": "DECLARED_COUNTS_RECONCILED",
+    "values_sha256": "7ee0f7906505326680f4549cf512269670e284dc3bf54e1f9aae10c29585294f",
+    "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+    "version": 2,
+    "amount_field": "federalShareObligated",
+    "county_meaning": "applicant_location",
+    "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+  },
+  "metadata_earlier": {
+    "kind": "METADATA_ONLY",
+    "capture_end_utc": "2026-10-30T15:21:28.162438+00:00",
+    "coverage_status": "METADATA_ONLY",
+    "values_sha256": null,
+    "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+    "version": 2,
+    "amount_field": "federalShareObligated",
+    "county_meaning": "applicant_location",
+    "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+  },
+  "metadata_current": {
+    "kind": "METADATA_ONLY",
+    "capture_end_utc": "2026-10-31T01:40:34.654979+00:00",
+    "coverage_status": "METADATA_ONLY",
+    "values_sha256": null,
+    "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+    "version": 2,
+    "amount_field": "federalShareObligated",
+    "county_meaning": "applicant_location",
+    "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+  },
+  "current_refresh_filter": {
+    "kind": "CURRENT_FILTER",
+    "capture_end_utc": "2026-10-31T01:52:04.517683+00:00",
+    "coverage_status": "NOT_A_HISTORICAL_CAPTURE",
+    "values_sha256": null,
+    "selector": "lastRefresh",
+    "cutoff": "2018-12-31T23:59:59Z",
+    "derived_from": "current_county_values",
+    "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+    "version": 2,
+    "amount_field": "federalShareObligated",
+    "county_meaning": "applicant_location",
+    "population": "current_obligated_PA_v2_excludes_preobligation_migration_possible"
+  }
+}

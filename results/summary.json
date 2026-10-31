@@ -1,0 +1,23 @@
+{
+  "county_groups": 132,
+  "county_meaning": "applicant location;not necessarily damaged-work location",
+  "current_county_value_captures": 1,
+  "current_records": 17994,
+  "current_summary_rows": 134,
+  "cutoffs": 5,
+  "fixed_disasters": [
+    4332,
+    4339
+  ],
+  "historical_county_value_captures": 0,
+  "metadata_captures": 2,
+  "monetary_meaning": "reported federal grant funding available to grantee;not paid cash or official financial reporting",
+  "probe_rows": 1340,
+  "qualification": "Fixed source-informed current-record audit. No historical revision error,recovery effect,funding need,waiting period or national generalization.",
+  "selectors": [
+    "firstObligationDate",
+    "lastRefresh"
+  ],
+  "source_sufficient_cells": 9844,
+  "stability_horizon": null
+}

@@ -1,0 +1,826 @@
+[
+  {
+    "name": "CurrentRecords",
+    "file": "results/summary.json",
+    "field": [
+      "current_records"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "17,994"
+  },
+  {
+    "name": "SourceGroups",
+    "file": "results/summary.json",
+    "field": [
+      "county_groups"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "132"
+  },
+  {
+    "name": "SufficientCells",
+    "file": "results/summary.json",
+    "field": [
+      "source_sufficient_cells"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "9,844"
+  },
+  {
+    "name": "ProbeCount",
+    "file": "results/summary.json",
+    "field": [
+      "probe_rows"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "1,340"
+  },
+  {
+    "name": "CurrentGroups",
+    "file": "results/summary.json",
+    "field": [
+      "current_summary_rows"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "134"
+  },
+  {
+    "name": "MetaCaptures",
+    "file": "results/summary.json",
+    "field": [
+      "metadata_captures"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "2"
+  },
+  {
+    "name": "ValueCaptures",
+    "file": "results/summary.json",
+    "field": [
+      "current_county_value_captures"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "1"
+  },
+  {
+    "name": "PastCaptures",
+    "file": "results/summary.json",
+    "field": [
+      "historical_county_value_captures"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "NativeChecks",
+    "file": "results/verification.json",
+    "field": [
+      "native_source_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "141,166"
+  },
+  {
+    "name": "SavedChecks",
+    "file": "results/verification.json",
+    "field": [
+      "saved_source_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "49,237"
+  },
+  {
+    "name": "ProbeChecks",
+    "file": "results/verification.json",
+    "field": [
+      "independent_probe_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "18,526"
+  },
+  {
+    "name": "FixtureCount",
+    "file": "results/verification.json",
+    "field": [
+      "authored_fixture_methods"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "38"
+  },
+  {
+    "name": "FreezeCount",
+    "file": "PLAN_FREEZE.json",
+    "field": [
+      "dependencies"
+    ],
+    "query": null,
+    "operation": "length",
+    "display": "26"
+  },
+  {
+    "name": "FigureChecks",
+    "file": "figures/verification.json",
+    "field": [
+      "finite_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "910"
+  },
+  {
+    "name": "FigureBars",
+    "file": "figures/verification.json",
+    "field": [
+      "source_bound_artists"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "44"
+  },
+  {
+    "name": "SvgCoordinates",
+    "file": "figures/verification.json",
+    "field": [
+      "svg_coordinate_conditions"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "176"
+  },
+  {
+    "name": "PythonOld",
+    "file": "results/reproduction_cpython310.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": "text",
+    "display": "3.10.11"
+  },
+  {
+    "name": "PythonNew",
+    "file": "results/reproduction_cpython312.json",
+    "field": [
+      "python"
+    ],
+    "query": null,
+    "operation": "text",
+    "display": "3.12.14"
+  },
+  {
+    "name": "ReplaySources",
+    "file": "results/reproduction_cpython310.json",
+    "field": [
+      "unchanged_source_files"
+    ],
+    "query": null,
+    "operation": "commas",
+    "display": "11"
+  },
+  {
+    "name": "ThreeCodes",
+    "file": "data/county_catalog.json",
+    "field": null,
+    "query": {
+      "source_code_shape": "THREE_DIGITS"
+    },
+    "operation": "count",
+    "display": "68"
+  },
+  {
+    "name": "OtherCodes",
+    "file": "data/county_catalog.json",
+    "field": null,
+    "query": {
+      "source_code_shape": "OTHER"
+    },
+    "operation": "count",
+    "display": "64"
+  },
+  {
+    "name": "MixedGroups",
+    "file": "data/county_catalog.json",
+    "field": null,
+    "query": {
+      "multiple_source_names": true
+    },
+    "operation": "count",
+    "display": "22"
+  },
+  {
+    "name": "OtherLabels",
+    "file": "data/county_catalog.json",
+    "field": null,
+    "query": {
+      "multiple_source_names": false
+    },
+    "operation": "count",
+    "display": "110"
+  },
+  {
+    "name": "LabelsAustin",
+    "file": "data/county_catalog.json",
+    "field": [
+      "county_names"
+    ],
+    "query": {
+      "disaster": 4332,
+      "state_code": "48",
+      "county_code": "15"
+    },
+    "operation": "join",
+    "display": "Austin County; Statewide"
+  },
+  {
+    "name": "LabelsDallas",
+    "file": "data/county_catalog.json",
+    "field": [
+      "county_names"
+    ],
+    "query": {
+      "disaster": 4332,
+      "state_code": "48",
+      "county_code": "113"
+    },
+    "operation": "join",
+    "display": "Dallas County; Statewide"
+  },
+  {
+    "name": "LabelsHarris",
+    "file": "data/county_catalog.json",
+    "field": [
+      "county_names"
+    ],
+    "query": {
+      "disaster": 4332,
+      "state_code": "48",
+      "county_code": "201"
+    },
+    "operation": "join",
+    "display": "Harris County; Statewide"
+  },
+  {
+    "name": "RecordsA",
+    "file": "results/current_totals.csv",
+    "field": [
+      "current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS"
+    },
+    "operation": "commas",
+    "display": "6,621"
+  },
+  {
+    "name": "CurrentMoneyA",
+    "file": "results/current_totals.csv",
+    "field": [
+      "current_reported_federal_usd"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS"
+    },
+    "operation": "money2",
+    "display": "2,999,825,482.86"
+  },
+  {
+    "name": "CutoffA",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "cutoff"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "date",
+    "display": "2018-12-31"
+  },
+  {
+    "name": "FirstCountAA",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "3,155"
+  },
+  {
+    "name": "StoreCountAA",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "FirstMoneyA",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_reported_federal_usd"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "money2",
+    "display": "1,372,714,981.32"
+  },
+  {
+    "name": "FirstRecordPercentA",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "record_fraction"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "percent2",
+    "display": "47.65"
+  },
+  {
+    "name": "FirstDollarPercentA",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "reported_dollar_fraction"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "percent2",
+    "display": "45.76"
+  },
+  {
+    "name": "CutoffB",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "cutoff"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2020-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "date",
+    "display": "2020-12-31"
+  },
+  {
+    "name": "FirstCountAB",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2020-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "6,254"
+  },
+  {
+    "name": "StoreCountAB",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2020-12-31T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "CutoffC",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "cutoff"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2022-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "date",
+    "display": "2022-12-31"
+  },
+  {
+    "name": "FirstCountAC",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2022-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "6,582"
+  },
+  {
+    "name": "StoreCountAC",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2022-12-31T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "CutoffD",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "cutoff"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2024-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "date",
+    "display": "2024-12-31"
+  },
+  {
+    "name": "FirstCountAD",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2024-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "6,601"
+  },
+  {
+    "name": "StoreCountAD",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2024-12-31T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "CutoffE",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "cutoff"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2026-10-30T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "date",
+    "display": "2026-10-30"
+  },
+  {
+    "name": "FirstCountAE",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2026-10-30T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "6,621"
+  },
+  {
+    "name": "StoreCountAE",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4332",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2026-10-30T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "6,621"
+  },
+  {
+    "name": "RecordsB",
+    "file": "results/current_totals.csv",
+    "field": [
+      "current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS"
+    },
+    "operation": "commas",
+    "display": "11,373"
+  },
+  {
+    "name": "CurrentMoneyB",
+    "file": "results/current_totals.csv",
+    "field": [
+      "current_reported_federal_usd"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS"
+    },
+    "operation": "money2",
+    "display": "35,573,517,223.51"
+  },
+  {
+    "name": "FirstCountBA",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "875"
+  },
+  {
+    "name": "StoreCountBA",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "FirstMoneyB",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_reported_federal_usd"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "money2",
+    "display": "5,993,968,800.80"
+  },
+  {
+    "name": "FirstRecordPercentB",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "record_fraction"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "percent2",
+    "display": "7.69"
+  },
+  {
+    "name": "FirstDollarPercentB",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "reported_dollar_fraction"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2018-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "percent2",
+    "display": "16.85"
+  },
+  {
+    "name": "FirstCountBB",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2020-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "6,329"
+  },
+  {
+    "name": "StoreCountBB",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2020-12-31T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "FirstCountBC",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2022-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "10,350"
+  },
+  {
+    "name": "StoreCountBC",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2022-12-31T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "FirstCountBD",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2024-12-31T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "11,142"
+  },
+  {
+    "name": "StoreCountBD",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2024-12-31T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "0"
+  },
+  {
+    "name": "FirstCountBE",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2026-10-30T23:59:59Z",
+      "selector": "firstObligationDate"
+    },
+    "operation": "commas",
+    "display": "11,373"
+  },
+  {
+    "name": "StoreCountBE",
+    "file": "results/probe_metrics.csv",
+    "field": [
+      "selected_current_records"
+    ],
+    "query": {
+      "level": "DISASTER",
+      "disaster": "4339",
+      "group_key": "ALL_CURRENT_RECORDS",
+      "cutoff": "2026-10-30T23:59:59Z",
+      "selector": "lastRefresh"
+    },
+    "operation": "commas",
+    "display": "11,373"
+  }
+]

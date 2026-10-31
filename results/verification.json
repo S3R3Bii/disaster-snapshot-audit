@@ -1,0 +1,19 @@
+{
+  "status": "PASS_FINITE_LOCAL_CHECKS",
+  "native_source_conditions": 141166,
+  "saved_source_conditions": 49237,
+  "independent_probe_conditions": 18526,
+  "authored_fixture_methods": 38,
+  "source_groups": 132,
+  "current_records": 17994,
+  "probes": 1340,
+  "result_sha256": {
+    "current_totals.csv": "5101d094a0aaee651eb8a023031ffd76874efd2ee2fd350dee2d7011a4b98481",
+    "probe_metrics.csv": "cfed03a9b7e55c3e473122e01a0af7800529287f572190900aa85c4613aadb29",
+    "metadata_comparison.json": "d7346a01dc2dc15466cf85121d760f81bbd80b57ff4abcddabe02d662922b1df",
+    "summary.json": "ae402abaf144ed0d4e24e669b8cd8d2b594164ce21302b1ce70381dd67eee2a7",
+    "exercise.json": "6106921671993b791f79675959b3957926e4acc811fdf16a0eefb6105a53e320"
+  },
+  "scope": "Observed successful commands for this version,not universal correctness or historical stability. Exact CI and release closure recorded separately.",
+  "additional_validation": "Two aggregation-boundary fixture methods added after first probe checks; source/probe rules and frozen dependencies unchanged."
+}

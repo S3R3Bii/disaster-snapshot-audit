@@ -1,0 +1,25 @@
+{
+  "manuscript_sha256": "922fe0e3573ee5512554b055f436850bdc1f1fd9040b6ddc9236b548a565ac4f",
+  "pages_reviewed": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "figure_pngs_reviewed": [
+    "current_record_probes",
+    "current_dollar_probes",
+    "source_county_flags"
+  ],
+  "rendered_page_hashes": {
+    "1": "abfb74df565d7082ec8b25a6a13b3481930f4109acf466ad2be938fff56ed7cf",
+    "2": "336d645fbd7744f43d64115ae082e374790195295ffae2c50a898d40315b73e3",
+    "3": "62f6b5d827bef2f073d832004b0a1ca4829c49a9b98a25701c8f6c943f990a62",
+    "4": "61588d52ddc2880218dc6642af6ac7bc47066d0fb72c476a13f2a1d6bb318d1b",
+    "5": "dcc3acee4a4cb02132cef4f8d6d9cbf993bdcfe12e5b396623bdd60f3475990a"
+  },
+  "result": "PASS:readable current-source tables,complete fixed probes and guard outcomes,intact labels/units and figures,required FEMA notice,no TeX layout or missing-glyph warnings after apostrophe repair.",
+  "limitations": "Source-group geography and historical county values are unverified;no accessibility conformance claim.",
+  "prior_font_failure_retained": true
+}

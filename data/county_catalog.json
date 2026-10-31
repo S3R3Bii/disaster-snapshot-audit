@@ -1,0 +1,2004 @@
+[
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"113\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "113",
+    "county_names": [
+      "Dallas County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"123\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "123",
+    "county_names": [
+      "DeWitt County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"149\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "149",
+    "county_names": [
+      "Fayette County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"15\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "15",
+    "county_names": [
+      "Austin County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"157\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "157",
+    "county_names": [
+      "Fort Bend County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"167\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "167",
+    "county_names": [
+      "Galveston County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"175\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "175",
+    "county_names": [
+      "Goliad County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"177\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "177",
+    "county_names": [
+      "Gonzales County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"185\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "185",
+    "county_names": [
+      "Grimes County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"187\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "187",
+    "county_names": [
+      "Guadalupe County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"199\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "199",
+    "county_names": [
+      "Hardin County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"201\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "201",
+    "county_names": [
+      "Harris County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"21\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "21",
+    "county_names": [
+      "Bastrop County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"239\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "239",
+    "county_names": [
+      "Jackson County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"241\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "241",
+    "county_names": [
+      "Jasper County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"245\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "245",
+    "county_names": [
+      "Jefferson County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"249\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "249",
+    "county_names": [
+      "Jim Wells County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"25\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "25",
+    "county_names": [
+      "Bee County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"255\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "255",
+    "county_names": [
+      "Karnes County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"273\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "273",
+    "county_names": [
+      "Kleberg County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"285\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "285",
+    "county_names": [
+      "Lavaca County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"287\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "287",
+    "county_names": [
+      "Lee County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"29\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "29",
+    "county_names": [
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"291\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "291",
+    "county_names": [
+      "Liberty County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"313\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "313",
+    "county_names": [
+      "Madison County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"321\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "321",
+    "county_names": [
+      "Matagorda County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"331\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "331",
+    "county_names": [
+      "Milam County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"339\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "339",
+    "county_names": [
+      "Montgomery County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"347\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "347",
+    "county_names": [
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"351\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "351",
+    "county_names": [
+      "Newton County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"355\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "355",
+    "county_names": [
+      "Nueces County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"361\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "361",
+    "county_names": [
+      "Orange County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"373\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "373",
+    "county_names": [
+      "Polk County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"39\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "39",
+    "county_names": [
+      "Brazoria County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"391\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "391",
+    "county_names": [
+      "Refugio County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"403\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "403",
+    "county_names": [
+      "Sabine County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"405\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "405",
+    "county_names": [
+      "San Augustine County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"407\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "407",
+    "county_names": [
+      "San Jacinto County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"409\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "409",
+    "county_names": [
+      "San Patricio County",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"41\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "41",
+    "county_names": [
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"453\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "453",
+    "county_names": [
+      "Statewide",
+      "Travis County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"457\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "457",
+    "county_names": [
+      "Tyler County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"469\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "469",
+    "county_names": [
+      "Statewide",
+      "Victoria County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"471\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "471",
+    "county_names": [
+      "Statewide",
+      "Walker County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"473\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "473",
+    "county_names": [
+      "Statewide",
+      "Waller County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"477\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "477",
+    "county_names": [
+      "Washington County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"481\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "481",
+    "county_names": [
+      "Wharton County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"51\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "51",
+    "county_names": [
+      "Burleson County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"55\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "55",
+    "county_names": [
+      "Caldwell County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"57\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "57",
+    "county_names": [
+      "Calhoun County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"7\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "7",
+    "county_names": [
+      "Aransas County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"71\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "71",
+    "county_names": [
+      "Chambers County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"89\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "89",
+    "county_names": [
+      "Colorado County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4332,\"48\",\"CODE\",\"91\"]",
+    "disaster": 4332,
+    "state_code": "48",
+    "county_code": "91",
+    "county_names": [
+      "Comal County"
+    ],
+    "state_abbreviations": [
+      "TX"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"1\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "1",
+    "county_names": [
+      "Adjuntas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"101\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "101",
+    "county_names": [
+      "Morovis"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"103\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "103",
+    "county_names": [
+      "Naguabo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"105\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "105",
+    "county_names": [
+      "Naranjito"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"107\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "107",
+    "county_names": [
+      "Orocovis"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"109\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "109",
+    "county_names": [
+      "Patillas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"11\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "11",
+    "county_names": [
+      "Anasco"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"111\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "111",
+    "county_names": [
+      "Penuelas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"113\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "113",
+    "county_names": [
+      "Ponce"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"115\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "115",
+    "county_names": [
+      "Quebradillas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"117\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "117",
+    "county_names": [
+      "Rincon"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"119\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "119",
+    "county_names": [
+      "Rio Grande"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"121\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "121",
+    "county_names": [
+      "Sabana Grande"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"123\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "123",
+    "county_names": [
+      "Salinas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"125\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "125",
+    "county_names": [
+      "San German"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"127\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "127",
+    "county_names": [
+      "San Juan",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"129\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "129",
+    "county_names": [
+      "San Lorenzo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"13\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "13",
+    "county_names": [
+      "Arecibo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"131\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "131",
+    "county_names": [
+      "San Sebastian"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"133\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "133",
+    "county_names": [
+      "Santa Isabel"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"135\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "135",
+    "county_names": [
+      "Toa Alta"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"137\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "137",
+    "county_names": [
+      "Toa Baja"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"139\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "139",
+    "county_names": [
+      "Trujillo Alto"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"141\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "141",
+    "county_names": [
+      "Utuado"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"143\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "143",
+    "county_names": [
+      "Vega Alta"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"145\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "145",
+    "county_names": [
+      "Vega Baja"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"147\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "147",
+    "county_names": [
+      "Vieques"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"149\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "149",
+    "county_names": [
+      "Villalba"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"15\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "15",
+    "county_names": [
+      "Arroyo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"151\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "151",
+    "county_names": [
+      "Yabucoa"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"153\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "153",
+    "county_names": [
+      "Yauco"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "THREE_DIGITS",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"17\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "17",
+    "county_names": [
+      "Barceloneta"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"19\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "19",
+    "county_names": [
+      "Barranquitas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"21\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "21",
+    "county_names": [
+      "Bayamon",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"23\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "23",
+    "county_names": [
+      "Cabo Rojo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"25\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "25",
+    "county_names": [
+      "Caguas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"27\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "27",
+    "county_names": [
+      "Camuy"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"29\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "29",
+    "county_names": [
+      "Canovanas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"3\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "3",
+    "county_names": [
+      "Aguada"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"31\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "31",
+    "county_names": [
+      "Carolina"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"33\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "33",
+    "county_names": [
+      "Catano"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"35\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "35",
+    "county_names": [
+      "Cayey"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"37\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "37",
+    "county_names": [
+      "Ceiba"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"39\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "39",
+    "county_names": [
+      "Ciales"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"41\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "41",
+    "county_names": [
+      "Cidra"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"43\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "43",
+    "county_names": [
+      "Coamo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"45\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "45",
+    "county_names": [
+      "Comerio"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"47\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "47",
+    "county_names": [
+      "Corozal"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"49\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "49",
+    "county_names": [
+      "Culebra"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"5\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "5",
+    "county_names": [
+      "Aguadilla"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"51\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "51",
+    "county_names": [
+      "Dorado",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"53\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "53",
+    "county_names": [
+      "Fajardo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"54\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "54",
+    "county_names": [
+      "Florida"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"55\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "55",
+    "county_names": [
+      "Guanica"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"57\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "57",
+    "county_names": [
+      "Guayama"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"59\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "59",
+    "county_names": [
+      "Guayanilla"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"61\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "61",
+    "county_names": [
+      "Guaynabo",
+      "Statewide"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": true,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"63\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "63",
+    "county_names": [
+      "Gurabo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"65\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "65",
+    "county_names": [
+      "Hatillo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"67\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "67",
+    "county_names": [
+      "Hormigueros"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"69\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "69",
+    "county_names": [
+      "Humacao"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"7\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "7",
+    "county_names": [
+      "Aguas Buenas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"71\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "71",
+    "county_names": [
+      "Isabela"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"73\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "73",
+    "county_names": [
+      "Jayuya"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"75\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "75",
+    "county_names": [
+      "Juana Diaz"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"77\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "77",
+    "county_names": [
+      "Juncos"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"79\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "79",
+    "county_names": [
+      "Lajas"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"81\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "81",
+    "county_names": [
+      "Lares"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"83\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "83",
+    "county_names": [
+      "Las Marias"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"85\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "85",
+    "county_names": [
+      "Las Piedras"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"87\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "87",
+    "county_names": [
+      "Loiza"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"89\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "89",
+    "county_names": [
+      "Luquillo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"9\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "9",
+    "county_names": [
+      "Aibonito"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"91\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "91",
+    "county_names": [
+      "Manati"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"93\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "93",
+    "county_names": [
+      "Maricao"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"95\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "95",
+    "county_names": [
+      "Maunabo"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"97\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "97",
+    "county_names": [
+      "Mayaguez"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  },
+  {
+    "county_key": "[4339,\"72\",\"CODE\",\"99\"]",
+    "disaster": 4339,
+    "state_code": "72",
+    "county_code": "99",
+    "county_names": [
+      "Moca"
+    ],
+    "state_abbreviations": [
+      "PR"
+    ],
+    "source_code_shape": "OTHER",
+    "multiple_source_names": false,
+    "qualification": "Applicant location;source code not independently validated geography."
+  }
+]

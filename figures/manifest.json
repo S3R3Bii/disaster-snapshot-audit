@@ -1,0 +1,693 @@
+{
+  "current_dollar_probes": {
+    "artists": [
+      {
+        "artist_value": 45.759828002103276,
+        "category": 0,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-firstObligationDate-0",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2018-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 83.48888974908692,
+        "category": 1,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-firstObligationDate-1",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2020-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 99.08196442168548,
+        "category": 2,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-firstObligationDate-2",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2022-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 99.8549090440471,
+        "category": 3,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-firstObligationDate-3",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2024-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 100.0,
+        "category": 4,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-firstObligationDate-4",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2026-10-30T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 0,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-lastRefresh-0",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2018-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 1,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-lastRefresh-1",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2020-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 2,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-lastRefresh-2",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2022-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 3,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-lastRefresh-3",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2024-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 100.0,
+        "category": 4,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4332-lastRefresh-4",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2026-10-30T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 16.84952534532817,
+        "category": 0,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-firstObligationDate-0",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2018-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 39.742682247389624,
+        "category": 1,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-firstObligationDate-1",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2020-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 74.72726841351414,
+        "category": 2,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-firstObligationDate-2",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2022-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 92.12058148504487,
+        "category": 3,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-firstObligationDate-3",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2024-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 100.0,
+        "category": 4,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-firstObligationDate-4",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2026-10-30T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 0,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-lastRefresh-0",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2018-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 1,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-lastRefresh-1",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2020-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 2,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-lastRefresh-2",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2022-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 3,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-lastRefresh-3",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2024-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 100.0,
+        "category": 4,
+        "field": "reported_dollar_fraction",
+        "id": "current_dollar_probes-4339-lastRefresh-4",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2026-10-30T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      }
+    ],
+    "sha256": {
+      "pdf": "b0d7c055c48e9cf31cfbdb6fb04d02c071e7be3cf9fc88983532d078a7c521de",
+      "png": "2debf5144c062fa53d2e3478cd2801fd3fbcde1c1ef7ab1ab89f27ddea86dc63",
+      "svg": "ccb2900c2c71ff5d564cedc5a3ff569fa843baac79427564e96f9c74dc69f1af"
+    }
+  },
+  "current_record_probes": {
+    "artists": [
+      {
+        "artist_value": 47.651412173387705,
+        "category": 0,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-firstObligationDate-0",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2018-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 94.45703066002115,
+        "category": 1,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-firstObligationDate-1",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2020-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 99.41096511101043,
+        "category": 2,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-firstObligationDate-2",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2022-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 99.6979308261592,
+        "category": 3,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-firstObligationDate-3",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2024-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 100.0,
+        "category": 4,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-firstObligationDate-4",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2026-10-30T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 0,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-lastRefresh-0",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2018-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 1,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-lastRefresh-1",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2020-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 2,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-lastRefresh-2",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2022-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 3,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-lastRefresh-3",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2024-12-31T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 100.0,
+        "category": 4,
+        "field": "record_fraction",
+        "id": "current_record_probes-4332-lastRefresh-4",
+        "kind": "percent_bar",
+        "panel": 0,
+        "query": {
+          "cutoff": "2026-10-30T23:59:59Z",
+          "disaster": "4332",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 7.69366042381078,
+        "category": 0,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-firstObligationDate-0",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2018-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 55.64934493976963,
+        "category": 1,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-firstObligationDate-1",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2020-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 91.00501187021894,
+        "category": 2,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-firstObligationDate-2",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2022-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 97.96887364811396,
+        "category": 3,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-firstObligationDate-3",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2024-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 100.0,
+        "category": 4,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-firstObligationDate-4",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2026-10-30T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "firstObligationDate"
+        },
+        "selector": "firstObligationDate"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 0,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-lastRefresh-0",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2018-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 1,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-lastRefresh-1",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2020-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 2,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-lastRefresh-2",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2022-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 0.0,
+        "category": 3,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-lastRefresh-3",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2024-12-31T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      },
+      {
+        "artist_value": 100.0,
+        "category": 4,
+        "field": "record_fraction",
+        "id": "current_record_probes-4339-lastRefresh-4",
+        "kind": "percent_bar",
+        "panel": 1,
+        "query": {
+          "cutoff": "2026-10-30T23:59:59Z",
+          "disaster": "4339",
+          "group_key": "ALL_CURRENT_RECORDS",
+          "level": "DISASTER",
+          "selector": "lastRefresh"
+        },
+        "selector": "lastRefresh"
+      }
+    ],
+    "sha256": {
+      "pdf": "2da57ee28882525c5b30200f5961ecc620f42f6b6b89650ac18e249645746570",
+      "png": "1110686b87cb43037e8f3380dabeb77e67fc0fa5ca615138ceefa8fcf8d7a5a7",
+      "svg": "cbe9a8c4e786f8c444f2dbe60bea8b9de2a04456ea75ab63d8e6395490daa947"
+    }
+  },
+  "source_county_flags": {
+    "artists": [
+      {
+        "artist_value": 68.0,
+        "id": "three_digits",
+        "kind": "count_bar",
+        "row": 0
+      },
+      {
+        "artist_value": 64.0,
+        "id": "other_format",
+        "kind": "count_bar",
+        "row": 1
+      },
+      {
+        "artist_value": 22.0,
+        "id": "mixed_statewide",
+        "kind": "count_bar",
+        "row": 3
+      },
+      {
+        "artist_value": 110.0,
+        "id": "other_labels",
+        "kind": "count_bar",
+        "row": 4
+      }
+    ],
+    "sha256": {
+      "pdf": "6aff310293d7c92c3920ec03b40e69aeddeb1a7d720415638f3cc474b7012130",
+      "png": "cf9fbf9509266944b730ccd62cf0f213ccd9bbc4dd67c9a5277284ec9ede7ba9",
+      "svg": "183588f71484af602a590d02a9519429a6a19b3d134d9ba751d26368f0ad3c88"
+    }
+  }
+}

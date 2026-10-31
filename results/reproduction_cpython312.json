@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "python": "3.12.14",
+  "reproduced_files": [
+    "current_totals.csv",
+    "probe_metrics.csv",
+    "metadata_comparison.json",
+    "summary.json",
+    "exercise.json"
+  ],
+  "unchanged_source_files": 11,
+  "native_redownload": false,
+  "scope": "Saved county/date aggregate replay;not independent reacquisition of mutable native sources or historical values.",
+  "checkout_head": "b4b6fb637a54f1a87703995220c4c0bc6746bc8c",
+  "full_history": true
+}
