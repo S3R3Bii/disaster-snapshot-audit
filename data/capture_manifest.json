@@ -1,0 +1,81 @@
+{
+  "after_dataset_refresh": "2026-10-30T15:10:15.139Z",
+  "before_dataset_refresh": "2026-10-30T15:10:15.139Z",
+  "cohorts": [
+    {
+      "captured_records": 6621,
+      "coverage": "PASS_DECLARED_COUNTS",
+      "declared_count": 6621,
+      "disaster": 4332,
+      "pages": 1
+    },
+    {
+      "captured_records": 11373,
+      "coverage": "PASS_DECLARED_COUNTS",
+      "declared_count": 11373,
+      "disaster": 4339,
+      "pages": 2
+    }
+  ],
+  "endpoint": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails",
+  "protocol_and_method_head": "d35111a7d17d3c234cd086b606049d20f96fb1c2",
+  "qualification": "Current multi-request capture. Count/refresh consistency does not prove atomicity,immutable history or unchanged past values. No filter comparisons run.",
+  "requests": [
+    {
+      "bytes": 2307236,
+      "captured_utc": "2026-10-31T01:52:01.539673+00:00",
+      "file": "4332-page-000.json",
+      "sha256": "eb1d6f2551f5f4caa280f5edc76403fef0f0897363ccce66aed0aeabba9aee00",
+      "started_utc": "2026-10-31T01:52:00.277578+00:00",
+      "status": 200,
+      "url": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails?%24filter=disasterNumber+eq+4332&%24select=disasterNumber%2CdeclarationDate%2CgmProjectId%2CapplicantId%2CpwNumber%2Ccounty%2CcountyCode%2CstateAbbreviation%2CstateNumberCode%2CfederalShareObligated%2CfirstObligationDate%2ClastRefresh&%24orderby=gmProjectId%2CapplicantId%2CpwNumber&%24top=10000&%24skip=0&%24metadata=true&%24count=true&%24format=json"
+    },
+    {
+      "bytes": 495,
+      "captured_utc": "2026-10-31T01:52:01.749717+00:00",
+      "file": "4332-final-count.json",
+      "sha256": "f57a46c5ea8e1ad1381dc6d29ca82fd5979bd100bf40650f80c7a1812ae4f219",
+      "started_utc": "2026-10-31T01:52:01.554672+00:00",
+      "status": 200,
+      "url": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails?%24filter=disasterNumber+eq+4332&%24select=disasterNumber&%24top=1&%24count=true&%24metadata=true&%24format=json"
+    },
+    {
+      "bytes": 3441410,
+      "captured_utc": "2026-10-31T01:52:03.747280+00:00",
+      "file": "4339-page-000.json",
+      "sha256": "620051ab024f186699b43cbdc1e589d53cc20db6ab87c410ba0f7341ca125162",
+      "started_utc": "2026-10-31T01:52:01.754718+00:00",
+      "status": 200,
+      "url": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails?%24filter=disasterNumber+eq+4339&%24select=disasterNumber%2CdeclarationDate%2CgmProjectId%2CapplicantId%2CpwNumber%2Ccounty%2CcountyCode%2CstateAbbreviation%2CstateNumberCode%2CfederalShareObligated%2CfirstObligationDate%2ClastRefresh&%24orderby=gmProjectId%2CapplicantId%2CpwNumber&%24top=10000&%24skip=0&%24metadata=true&%24count=true&%24format=json"
+    },
+    {
+      "bytes": 477907,
+      "captured_utc": "2026-10-31T01:52:04.227609+00:00",
+      "file": "4339-page-001.json",
+      "sha256": "e8dbaec6416265e80de326a1e77d31c9d245cc09cd4ba6647852221f5936c1d6",
+      "started_utc": "2026-10-31T01:52:03.770280+00:00",
+      "status": 200,
+      "url": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails?%24filter=disasterNumber+eq+4339&%24select=disasterNumber%2CdeclarationDate%2CgmProjectId%2CapplicantId%2CpwNumber%2Ccounty%2CcountyCode%2CstateAbbreviation%2CstateNumberCode%2CfederalShareObligated%2CfirstObligationDate%2ClastRefresh&%24orderby=gmProjectId%2CapplicantId%2CpwNumber&%24top=10000&%24skip=10000&%24metadata=true&%24count=false&%24format=json"
+    },
+    {
+      "bytes": 496,
+      "captured_utc": "2026-10-31T01:52:04.396148+00:00",
+      "file": "4339-final-count.json",
+      "sha256": "851b79d6d2c119506ee94c6b32558392ee2f302a0348c254c64697237f4f5841",
+      "started_utc": "2026-10-31T01:52:04.232614+00:00",
+      "status": 200,
+      "url": "https://www.fema.gov/api/open/v2/PublicAssistanceFundedProjectsDetails?%24filter=disasterNumber+eq+4339&%24select=disasterNumber&%24top=1&%24count=true&%24metadata=true&%24format=json"
+    },
+    {
+      "bytes": 5273,
+      "captured_utc": "2026-10-31T01:52:04.517683+00:00",
+      "file": "final-dataset-metadata.json",
+      "sha256": "cf60d01ef60306eac2885a191296358997a5445f0d24adba28c7b70b400f5bd3",
+      "started_utc": "2026-10-31T01:52:04.401149+00:00",
+      "status": 200,
+      "url": "https://www.fema.gov/api/open/v1/OpenFemaDataSets?%24filter=name+eq+%27PublicAssistanceFundedProjectsDetails%27&%24format=json"
+    }
+  ],
+  "status": "PASS_DECLARED_CAPTURE_COVERAGE",
+  "version": 2
+}
